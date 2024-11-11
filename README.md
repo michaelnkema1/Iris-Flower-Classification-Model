@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 Usage
 Clone the repository:
-git clone https://github.com/yourusername/iris-flower-classification.git
+git clone https://github.com/michaelnkema1/iris-flower-classification.git
 
 
 Run the model:
